@@ -451,19 +451,7 @@
   },
   {
     "id": 43,
-    "name": "Braiins Pool",
-    "addresses": [
-      "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr",
-      "1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE"
-    ],
-    "tags": [
-      "/slush/"
-    ],
-    "link": "https://braiins.com/pool"
-  },
-  {
-    "id": 44,
-    "name": "AntPool",
+    "name": "AntPool & friends",
     "addresses": [
       "12dRugNcdxK39288NjcDV4GX7rMsKCGn6B",
       "15kiNKfDWsq7UsPg87UwxA8rVvWAjzRkYS",
@@ -501,17 +489,41 @@
       "1Pzf7qT7bBGouvnjRvtRD8VhTyqjX1NrJT",
       "1Sjj2cPC3rTWcSTEYDeu2f3BavLosog4T",
       "1jLVpwtNMfXWaHY4eiLDmGuBxokYLgv1X",
-      "3FaYVQF6wCMUB9NCeRe4tUp1zZx8qqM7H1"
+      "3FaYVQF6wCMUB9NCeRe4tUp1zZx8qqM7H1",
+      "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr",
+      "1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE",
+      "14sA8jqYQgMRQV9zUtGFvpeMEw7YDn77SK",
+      "17tUZLvy3X2557JGhceXRiij2TNYuhRr4r",
+      "1E8CZo2S3CqWg1VZSJNFCTbtT8hZPuQ2kB",
+      "1GNgwA8JfG7Kc8akJ8opdNWJUihqUztfPe",
+      "36n452uGq1x4mK7bfyZR8wgE47AnBb2pzi",
+      "3JQSigWTCHyBLRD979JWgEtWP5YiiFwcQB",
+      "3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn",
+      "122pN8zvqTxJaA8fRY1PDBu4QYodqE5m2X",
+      "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw",
+      "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h",
+      "1JvXhnHCi6XqcanvrZJ5s2Qiv4tsmm2UMy",
+      "3L8Ck6bm3sve1vJGKo6Ht2k167YKSKi8TZ",
+      "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4",
+      "3G7jcEELKh38L6kaSV8K35pTqsh5bgZW2D",
+      "1EMVSMe1VJUuqv7D7SFzctnVXk4KdjXATi",
+      "3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd"
     ],
     "tags": [
       "/AntPool/",
       "Mined By AntPool",
-      "Mined by AntPool"
+      "Mined by AntPool",
+      "/slush/",
+      "/poolin.com",
+      "/poolin/",
+      "/Binance/",
+      "binance",
+      "/ultimus/"
     ],
     "link": "https://www.antpool.com"
   },
   {
-    "id": 45,
+    "id": 44,
     "name": "MultiCoin.co",
     "addresses": [],
     "tags": [
@@ -520,7 +532,7 @@
     "link": "https://multicoin.co"
   },
   {
-    "id": 46,
+    "id": 45,
     "name": "bcpool.io",
     "addresses": [],
     "tags": [
@@ -529,7 +541,7 @@
     "link": "https://bcpool.io"
   },
   {
-    "id": 47,
+    "id": 46,
     "name": "Cointerra",
     "addresses": [
       "1BX5YoLwvqzvVwSrdD4dC32vbouHQn2tuF"
@@ -540,7 +552,7 @@
     "link": "https://cointerra.com"
   },
   {
-    "id": 48,
+    "id": 47,
     "name": "KanoPool",
     "addresses": [],
     "tags": [
@@ -549,7 +561,7 @@
     "link": "https://kano.is"
   },
   {
-    "id": 49,
+    "id": 48,
     "name": "Solo CK",
     "addresses": [],
     "tags": [
@@ -558,7 +570,7 @@
     "link": "https://solo.ckpool.org"
   },
   {
-    "id": 50,
+    "id": 49,
     "name": "CKPool",
     "addresses": [],
     "tags": [
@@ -567,7 +579,7 @@
     "link": "https://ckpool.org"
   },
   {
-    "id": 51,
+    "id": 50,
     "name": "NiceHash",
     "addresses": [],
     "tags": [
@@ -577,7 +589,7 @@
     "link": "https://www.nicehash.com"
   },
   {
-    "id": 52,
+    "id": 51,
     "name": "BitClub",
     "addresses": [
       "155fzsEBHy9Ri2bMQ8uuuR3tv1YzcDywd4"
@@ -588,7 +600,7 @@
     "link": "https://bitclubpool.com"
   },
   {
-    "id": 53,
+    "id": 52,
     "name": "Bitcoin Affiliate Network",
     "addresses": [],
     "tags": [
@@ -597,7 +609,7 @@
     "link": "https://mining.bitcoinaffiliatenetwork.com"
   },
   {
-    "id": 54,
+    "id": 53,
     "name": "BTCC",
     "addresses": [
       "152f1muMCNa7goXYhYAQC61hxEgGacmncB"
@@ -611,7 +623,7 @@
     "link": "https://pool.btcc.com"
   },
   {
-    "id": 55,
+    "id": 54,
     "name": "BWPool",
     "addresses": [
       "1JLRXD8rjRgQtTS9MvfQALfHgGWau9L9ky"
@@ -623,7 +635,7 @@
     "link": "https://bwpool.net"
   },
   {
-    "id": 56,
+    "id": 55,
     "name": "EXX&BW",
     "addresses": [],
     "tags": [
@@ -632,7 +644,7 @@
     "link": "https://xbtc.exx.com"
   },
   {
-    "id": 57,
+    "id": 56,
     "name": "Bitsolo",
     "addresses": [
       "18zRehBcA2YkYvsC7dfQiFJNyjmWvXsvon"
@@ -643,7 +655,7 @@
     "link": "https://bitsolo.net"
   },
   {
-    "id": 58,
+    "id": 57,
     "name": "BitFury",
     "addresses": [
       "14yfxkcpHnju97pecpM7fjuTkVdtbkcfE6",
@@ -656,7 +668,7 @@
     "link": "https://bitfury.com"
   },
   {
-    "id": 59,
+    "id": 58,
     "name": "21 Inc.",
     "addresses": [
       "15rQXUSBQRubShPpiJfDLxmwS8ze2RUm4z",
@@ -669,7 +681,7 @@
     "link": "https://21.co"
   },
   {
-    "id": 60,
+    "id": 59,
     "name": "digitalBTC",
     "addresses": [
       "1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD"
@@ -680,7 +692,7 @@
     "link": "https://digitalbtc.com"
   },
   {
-    "id": 61,
+    "id": 60,
     "name": "8baochi",
     "addresses": [
       "1Hk9gD8xMo2XBUhE73y5zXEM8xqgffTB5f"
@@ -691,7 +703,7 @@
     "link": "https://8baochi.com"
   },
   {
-    "id": 62,
+    "id": 61,
     "name": "myBTCcoin Pool",
     "addresses": [
       "151T7r1MhizzJV6dskzzUkUdr7V8JxV2Dx"
@@ -702,7 +714,7 @@
     "link": "https://mybtccoin.com"
   },
   {
-    "id": 63,
+    "id": 62,
     "name": "TBDice",
     "addresses": [
       "1BUiW44WuJ2jiJgXiyxJVFMN8bc1GLdXRk"
@@ -713,7 +725,7 @@
     "link": "https://tbdice.org"
   },
   {
-    "id": 64,
+    "id": 63,
     "name": "HASHPOOL",
     "addresses": [],
     "tags": [
@@ -722,7 +734,7 @@
     "link": "https://hashpool.com"
   },
   {
-    "id": 65,
+    "id": 64,
     "name": "Nexious",
     "addresses": [
       "1GBo1f2tzVx5jScV9kJXPUP9RjvYXuNzV7"
@@ -733,7 +745,7 @@
     "link": "https://nexious.com"
   },
   {
-    "id": 66,
+    "id": 65,
     "name": "Bravo Mining",
     "addresses": [],
     "tags": [
@@ -742,7 +754,7 @@
     "link": "https://www.bravo-mining.com"
   },
   {
-    "id": 67,
+    "id": 66,
     "name": "HotPool",
     "addresses": [
       "17judvK4AC2M6KhaBbAEGw8CTKc9Pg8wup"
@@ -753,7 +765,7 @@
     "link": "https://hotpool.co"
   },
   {
-    "id": 68,
+    "id": 67,
     "name": "OKExPool",
     "addresses": [],
     "tags": [
@@ -762,7 +774,7 @@
     "link": "https://www.okex.com"
   },
   {
-    "id": 69,
+    "id": 68,
     "name": "BCMonster",
     "addresses": [
       "1E18BNyobcoiejcDYAz5SjbrzifNDEpM88"
@@ -773,7 +785,7 @@
     "link": "https://www.bcmonster.com"
   },
   {
-    "id": 70,
+    "id": 69,
     "name": "1Hash",
     "addresses": [
       "1F1xcRt8H8Wa623KqmkEontwAAVqDSAWCV"
@@ -784,7 +796,7 @@
     "link": "https://www.1hash.com"
   },
   {
-    "id": 71,
+    "id": 70,
     "name": "Bixin",
     "addresses": [
       "13hQVEstgo4iPQZv9C7VELnLWF7UWtF4Q3",
@@ -798,7 +810,7 @@
     "link": "https://haopool.com"
   },
   {
-    "id": 72,
+    "id": 71,
     "name": "TATMAS Pool",
     "addresses": [],
     "tags": [
@@ -807,7 +819,7 @@
     "link": "https://tmsminer.com"
   },
   {
-    "id": 73,
+    "id": 72,
     "name": "ViaBTC",
     "addresses": [],
     "tags": [
@@ -817,7 +829,7 @@
     "link": "https://viabtc.com"
   },
   {
-    "id": 74,
+    "id": 73,
     "name": "ConnectBTC",
     "addresses": [
       "1KPQkehgYAqwiC6UCcbojM3mbGjURrQJF2"
@@ -828,7 +840,7 @@
     "link": "https://www.connectbtc.com"
   },
   {
-    "id": 75,
+    "id": 74,
     "name": "BATPOOL",
     "addresses": [
       "167ApWWxUSFQmz2jdz9xop3oAKdLejvMML"
@@ -839,7 +851,7 @@
     "link": "https://www.batpool.com"
   },
   {
-    "id": 76,
+    "id": 75,
     "name": "Waterhole",
     "addresses": [
       "1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ"
@@ -850,7 +862,7 @@
     "link": "https://btc.waterhole.io"
   },
   {
-    "id": 77,
+    "id": 76,
     "name": "DCExploration",
     "addresses": [],
     "tags": [
@@ -859,7 +871,7 @@
     "link": "https://dcexploration.cn"
   },
   {
-    "id": 78,
+    "id": 77,
     "name": "DCEX",
     "addresses": [],
     "tags": [
@@ -868,7 +880,7 @@
     "link": "https://dcexploration.cn"
   },
   {
-    "id": 79,
+    "id": 78,
     "name": "BTPOOL",
     "addresses": [],
     "tags": [
@@ -877,7 +889,7 @@
     "link": ""
   },
   {
-    "id": 80,
+    "id": 79,
     "name": "58COIN",
     "addresses": [
       "199EDJoCpqV672qESEkfFgEqNT1iR2gj3t"
@@ -888,7 +900,7 @@
     "link": "https://www.58coin.com"
   },
   {
-    "id": 81,
+    "id": 80,
     "name": "Bitcoin India",
     "addresses": [],
     "tags": [
@@ -897,7 +909,7 @@
     "link": "https://bitcoin-india.org"
   },
   {
-    "id": 82,
+    "id": 81,
     "name": "shawnp0wers",
     "addresses": [
       "12znnESiJ3bgCLftwwrg9wzQKN8fJtoBDa",
@@ -909,7 +921,7 @@
     "link": "https://www.brainofshawn.com"
   },
   {
-    "id": 83,
+    "id": 82,
     "name": "PHash.IO",
     "addresses": [],
     "tags": [
@@ -919,7 +931,7 @@
     "link": "https://phash.io"
   },
   {
-    "id": 84,
+    "id": 83,
     "name": "RigPool",
     "addresses": [
       "1JpKmtspBJQVXK67DJP64eBJcAPhDvJ9Er"
@@ -930,7 +942,7 @@
     "link": "https://www.rigpool.com"
   },
   {
-    "id": 85,
+    "id": 84,
     "name": "HAOZHUZHU",
     "addresses": [
       "19qa95rTbDziNCS9EexUbh2hVY4viUU9tt"
@@ -941,7 +953,7 @@
     "link": "https://haozhuzhu.com"
   },
   {
-    "id": 86,
+    "id": 85,
     "name": "7pool",
     "addresses": [
       "1JLc3JxvpdL1g5zoX8sKLP4BkJQiwnJftU"
@@ -952,7 +964,7 @@
     "link": "https://7pool.com"
   },
   {
-    "id": 87,
+    "id": 86,
     "name": "MiningKings",
     "addresses": [
       "1ApE99VM5RJzMRRtwd2JMgmkGabtJqoMEz",
@@ -965,7 +977,7 @@
     "link": "https://miningkings.com"
   },
   {
-    "id": 88,
+    "id": 87,
     "name": "HashBX",
     "addresses": [],
     "tags": [
@@ -974,7 +986,7 @@
     "link": "https://hashbx.io"
   },
   {
-    "id": 89,
+    "id": 88,
     "name": "DPOOL",
     "addresses": [
       "1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v"
@@ -985,7 +997,7 @@
     "link": "https://www.dpool.top"
   },
   {
-    "id": 90,
+    "id": 89,
     "name": "Rawpool",
     "addresses": [
       "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b",
@@ -1003,7 +1015,7 @@
     "link": "https://www.rawpool.com"
   },
   {
-    "id": 91,
+    "id": 90,
     "name": "haominer",
     "addresses": [],
     "tags": [
@@ -1012,7 +1024,7 @@
     "link": "https://haominer.com"
   },
   {
-    "id": 92,
+    "id": 91,
     "name": "Helix",
     "addresses": [],
     "tags": [
@@ -1021,7 +1033,7 @@
     "link": ""
   },
   {
-    "id": 93,
+    "id": 92,
     "name": "Bitcoin-Ukraine",
     "addresses": [],
     "tags": [
@@ -1030,25 +1042,7 @@
     "link": "https://bitcoin-ukraine.com.ua"
   },
   {
-    "id": 94,
-    "name": "Poolin",
-    "addresses": [
-      "14sA8jqYQgMRQV9zUtGFvpeMEw7YDn77SK",
-      "17tUZLvy3X2557JGhceXRiij2TNYuhRr4r",
-      "1E8CZo2S3CqWg1VZSJNFCTbtT8hZPuQ2kB",
-      "1GNgwA8JfG7Kc8akJ8opdNWJUihqUztfPe",
-      "36n452uGq1x4mK7bfyZR8wgE47AnBb2pzi",
-      "3JQSigWTCHyBLRD979JWgEtWP5YiiFwcQB",
-      "3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn"
-    ],
-    "tags": [
-      "/poolin.com",
-      "/poolin/"
-    ],
-    "link": "https://www.poolin.com"
-  },
-  {
-    "id": 95,
+    "id": 93,
     "name": "SecretSuperstar",
     "addresses": [],
     "tags": [
@@ -1057,7 +1051,7 @@
     "link": ""
   },
   {
-    "id": 96,
+    "id": 94,
     "name": "tigerpool.net",
     "addresses": [],
     "tags": [
@@ -1066,7 +1060,7 @@
     "link": ""
   },
   {
-    "id": 97,
+    "id": 95,
     "name": "Sigmapool.com",
     "addresses": [
       "12cKiMNhCtBhZRUBCnYXo8A4WQzMUtYjmR"
@@ -1077,7 +1071,7 @@
     "link": "https://sigmapool.com"
   },
   {
-    "id": 98,
+    "id": 96,
     "name": "okpool.top",
     "addresses": [],
     "tags": [
@@ -1086,7 +1080,7 @@
     "link": "https://www.okpool.top"
   },
   {
-    "id": 99,
+    "id": 97,
     "name": "Hummerpool",
     "addresses": [],
     "tags": [
@@ -1096,7 +1090,7 @@
     "link": "https://www.hummerpool.com"
   },
   {
-    "id": 100,
+    "id": 98,
     "name": "Tangpool",
     "addresses": [
       "12Taz8FFXQ3E2AGn3ZW1SZM5bLnYGX4xR6"
@@ -1107,7 +1101,7 @@
     "link": "https://www.tangpool.com"
   },
   {
-    "id": 101,
+    "id": 99,
     "name": "BytePool",
     "addresses": [
       "39m5Wvn9ZqyhYmCYpsyHuGMt5YYw4Vmh1Z"
@@ -1118,7 +1112,7 @@
     "link": "https://www.bytepool.com"
   },
   {
-    "id": 102,
+    "id": 100,
     "name": "SpiderPool",
     "addresses": [
       "125m2H43pwKpSZjLhMQHneuTwTJN5qRyYu",
@@ -1131,7 +1125,7 @@
     "link": "https://www.spiderpool.com"
   },
   {
-    "id": 103,
+    "id": 101,
     "name": "NovaBlock",
     "addresses": [
       "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ"
@@ -1142,7 +1136,7 @@
     "link": "https://novablock.com"
   },
   {
-    "id": 104,
+    "id": 102,
     "name": "MiningCity",
     "addresses": [
       "11wC5KcbgrWRBb43cwADdVrxgyF8mndVC"
@@ -1153,25 +1147,7 @@
     "link": "https://www.miningcity.com"
   },
   {
-    "id": 105,
-    "name": "Binance Pool",
-    "addresses": [
-      "122pN8zvqTxJaA8fRY1PDBu4QYodqE5m2X",
-      "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw",
-      "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h",
-      "1JvXhnHCi6XqcanvrZJ5s2Qiv4tsmm2UMy",
-      "3L8Ck6bm3sve1vJGKo6Ht2k167YKSKi8TZ",
-      "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4",
-      "3G7jcEELKh38L6kaSV8K35pTqsh5bgZW2D"
-    ],
-    "tags": [
-      "/Binance/",
-      "binance"
-    ],
-    "link": "https://pool.binance.com"
-  },
-  {
-    "id": 106,
+    "id": 103,
     "name": "Minerium",
     "addresses": [],
     "tags": [
@@ -1181,7 +1157,7 @@
     "link": "https://www.minerium.com"
   },
   {
-    "id": 107,
+    "id": 104,
     "name": "Lubian.com",
     "addresses": [
       "34Jpa4Eu3ApoPVUKNTN2WeuXVVq1jzxgPi"
@@ -1193,7 +1169,7 @@
     "link": "https://www.lubian.com"
   },
   {
-    "id": 108,
+    "id": 105,
     "name": "OKKONG",
     "addresses": [
       "16JHXJ7M2MubWNX9grnqbjUqJ5PHwcCWw2"
@@ -1204,7 +1180,7 @@
     "link": "https://hash.okkong.com"
   },
   {
-    "id": 109,
+    "id": 106,
     "name": "AAO Pool",
     "addresses": [
       "12QVFmJH2b4455YUHkMpEnWLeRY3eJ4Jb5"
@@ -1215,7 +1191,7 @@
     "link": "https://btc.tmspool.top"
   },
   {
-    "id": 110,
+    "id": 107,
     "name": "EMCDPool",
     "addresses": [
       "1BDbsWi3Mrcjp1wdop3PWFNCNZtu4R7Hjy"
@@ -1229,7 +1205,7 @@
     "link": "https://pool.emcd.io"
   },
   {
-    "id": 111,
+    "id": 108,
     "name": "Foundry USA",
     "addresses": [
       "12KKDt4Mj7N5UAkQMN7LtPZMayenXHa8KL",
@@ -1244,7 +1220,7 @@
     "link": "https://foundrydigital.com"
   },
   {
-    "id": 112,
+    "id": 109,
     "name": "SBI Crypto",
     "addresses": [],
     "tags": [
@@ -1255,7 +1231,7 @@
     "link": "https://sbicrypto.com"
   },
   {
-    "id": 113,
+    "id": 110,
     "name": "ArkPool",
     "addresses": [
       "1QEiAhdHdMhBgVbDM7zUXWGkNhgEEJ6uLd"
@@ -1266,7 +1242,7 @@
     "link": "https://www.arkpool.com"
   },
   {
-    "id": 114,
+    "id": 111,
     "name": "PureBTC.COM",
     "addresses": [],
     "tags": [
@@ -1275,7 +1251,7 @@
     "link": "https://purebtc.com"
   },
   {
-    "id": 115,
+    "id": 112,
     "name": "MARA Pool",
     "addresses": [
       "15MdAHnkxt9TMC2Rj595hsg8Hnv693pPBB",
@@ -1288,7 +1264,7 @@
     "link": "https://marapool.com"
   },
   {
-    "id": 116,
+    "id": 113,
     "name": "KuCoinPool",
     "addresses": [
       "1ArTPjj6pV3aNRhLPjJVPYoxB98VLBzUmb"
@@ -1299,7 +1275,7 @@
     "link": "https://www.kucoin.com/mining-pool"
   },
   {
-    "id": 117,
+    "id": 114,
     "name": "Entrust Charity Pool",
     "addresses": [],
     "tags": [
@@ -1308,7 +1284,7 @@
     "link": "pool.entustus.org"
   },
   {
-    "id": 118,
+    "id": 115,
     "name": "OKMINER",
     "addresses": [
       "15xcAZ2HfaSwYbCV6GGbasBSAekBRRC5Q2"
@@ -1319,7 +1295,7 @@
     "link": "https://okminer.com"
   },
   {
-    "id": 119,
+    "id": 116,
     "name": "Titan",
     "addresses": [
       "14hLEtxozmmih6Gg5xrGZLfx51bEMj21NW"
@@ -1330,7 +1306,7 @@
     "link": "https://titan.io"
   },
   {
-    "id": 120,
+    "id": 117,
     "name": "PEGA Pool",
     "addresses": [
       "1BGFwRzjCfRR7EvRHnzfHyFjGR8XiBDFKa"
@@ -1341,7 +1317,7 @@
     "link": "https://www.pega-pool.com"
   },
   {
-    "id": 121,
+    "id": 118,
     "name": "BTC Nuggets",
     "addresses": [
       "1BwZeHJo7b7M2op7VDfYnsmcpXsUYEcVHm"
@@ -1350,7 +1326,7 @@
     "link": "https://104.197.8.250"
   },
   {
-    "id": 122,
+    "id": 119,
     "name": "CloudHashing",
     "addresses": [
       "1ALA5v7h49QT7WYLcRsxcXqXUqEqaWmkvw"
@@ -1359,7 +1335,7 @@
     "link": "https://cloudhashing.com"
   },
   {
-    "id": 123,
+    "id": 120,
     "name": "digitalX Mintsy",
     "addresses": [
       "1NY15MK947MLzmPUa2gL7UgyR8prLh2xfu"
@@ -1368,7 +1344,7 @@
     "link": "https://www.mintsy.co"
   },
   {
-    "id": 124,
+    "id": 121,
     "name": "Telco 214",
     "addresses": [
       "13Sd8Y7nUao3z4bJFkZvCRXpFqHvLy49YY",
@@ -1388,7 +1364,7 @@
     "link": "https://www.telco214.com"
   },
   {
-    "id": 125,
+    "id": 122,
     "name": "BTC Pool Party",
     "addresses": [
       "1PmRrdp1YSkp1LxPyCfcmBHDEipG5X4eJB"
@@ -1397,7 +1373,7 @@
     "link": "https://btcpoolparty.com"
   },
   {
-    "id": 126,
+    "id": 123,
     "name": "Multipool",
     "addresses": [
       "1MeffGLauEj2CZ18hRQqUauTXb9JAuLbGw"
@@ -1406,7 +1382,7 @@
     "link": "https://www.multipool.us"
   },
   {
-    "id": 127,
+    "id": 124,
     "name": "transactioncoinmining",
     "addresses": [
       "1qtKetXKgqa7j1KrB19HbvfRiNUncmakk"
@@ -1415,7 +1391,7 @@
     "link": "https://sha256.transactioncoinmining.com"
   },
   {
-    "id": 128,
+    "id": 125,
     "name": "BTCDig",
     "addresses": [
       "15MxzsutVroEE9XiDckLxUHTCDAEZgPZJi"
@@ -1424,7 +1400,7 @@
     "link": "https://btcdig.com"
   },
   {
-    "id": 129,
+    "id": 126,
     "name": "Tricky's BTC Pool",
     "addresses": [
       "1AePMyovoijxvHuKhTqWvpaAkRCF4QswC6"
@@ -1433,7 +1409,7 @@
     "link": "https://pool.wemine.uk"
   },
   {
-    "id": 130,
+    "id": 127,
     "name": "BTCMP",
     "addresses": [
       "1jKSjMLnDNup6NPgCjveeP9tUn4YpT94Y"
@@ -1442,7 +1418,7 @@
     "link": "https://www.btcmp.com"
   },
   {
-    "id": 131,
+    "id": 128,
     "name": "Eobot",
     "addresses": [
       "16GsNC3q6KgVXkUX7j7aPxSUdHrt1sN2yN",
@@ -1452,7 +1428,7 @@
     "link": "https://eobot.com"
   },
   {
-    "id": 132,
+    "id": 129,
     "name": "UNOMP",
     "addresses": [
       "1BRY8AD7vSNUEE75NjzfgiG18mWjGQSRuJ"
@@ -1461,7 +1437,7 @@
     "link": "https://199.115.116.7:8925"
   },
   {
-    "id": 133,
+    "id": 130,
     "name": "Patels",
     "addresses": [
       "197miJmttpCt2ubVs6DDtGBYFDroxHmvVB",
@@ -1471,7 +1447,7 @@
     "link": "https://patelsminingpool.com"
   },
   {
-    "id": 134,
+    "id": 131,
     "name": "GoGreenLight",
     "addresses": [
       "18EPLvrs2UE11kWBB3ABS7Crwj5tTBYPoa"
@@ -1480,7 +1456,7 @@
     "link": "https://www.gogreenlight.se"
   },
   {
-    "id": 135,
+    "id": 132,
     "name": "BitcoinIndia",
     "addresses": [
       "1AZ6BkCo4zgTuuLpRStJH8iNsehXTMp456"
@@ -1489,7 +1465,7 @@
     "link": "https://pool.bitcoin-india.org"
   },
   {
-    "id": 136,
+    "id": 133,
     "name": "EkanemBTC",
     "addresses": [
       "1Cs5RT9SRk1hxsdzivAfkjesNmVVJqfqkw"
@@ -1498,7 +1474,7 @@
     "link": "https://ekanembtc.com"
   },
   {
-    "id": 137,
+    "id": 134,
     "name": "CANOE",
     "addresses": [
       "1Afcpc2FpPnREU6i52K3cicmHdvYRAH9Wo"
@@ -1507,7 +1483,7 @@
     "link": "https://www.canoepool.com"
   },
   {
-    "id": 138,
+    "id": 135,
     "name": "tiger",
     "addresses": [
       "1LsFmhnne74EmU4q4aobfxfrWY4wfMVd8w"
@@ -1516,7 +1492,7 @@
     "link": ""
   },
   {
-    "id": 139,
+    "id": 136,
     "name": "1M1X",
     "addresses": [
       "1M1Xw2rczxkF3p3wiNHaTmxvbpZZ7M6vaa"
@@ -1525,7 +1501,7 @@
     "link": ""
   },
   {
-    "id": 140,
+    "id": 137,
     "name": "Zulupool",
     "addresses": [
       "1ZULUPooLEQfkrTgynLV4uHyMgQYx71ip"
@@ -1537,7 +1513,7 @@
     "link": "https://beta.zulupool.com/"
   },
   {
-    "id": 141,
+    "id": 138,
     "name": "SECPOOL",
     "addresses": [
       "3Awm3FNpmwrbvAFVThRUFqgpbVuqWisni9"
@@ -1548,7 +1524,7 @@
     "link": "https://www.secpool.com"
   },
   {
-    "id": 142,
+    "id": 139,
     "name": "OCEAN",
     "addresses": [
       "37dvwZZoT3D7RXpTCpN2yKzMmNs2i2Fd1n"
@@ -1559,7 +1535,7 @@
     "link": "https://ocean.xyz/"
   },
   {
-    "id": 143,
+    "id": 140,
     "name": "WhitePool",
     "addresses": [
       "14VkxDwSAUWrzYTxV49HnYhKLWTJ3pCoUS"
@@ -1570,7 +1546,7 @@
     "link": "https://whitebit.com/mining-pool"
   },
   {
-    "id": 144,
+    "id": 141,
     "name": "wiz",
     "addresses": [
       "tb1q548z58kqvwyjqwy8vc2ntmg33d7s2wyfv7ukq4"
@@ -1581,7 +1557,7 @@
     "link": "https://wiz.biz/"
   },
   {
-    "id": 145,
+    "id": 142,
     "name": "mononaut",
     "addresses": [
       "mjP97q5BWtdpdsJLkEJvQWgLe9zw4MMVU6"
@@ -1592,7 +1568,7 @@
     "link": "https://twitter.com/mononautical"
   },
   {
-    "id": 146,
+    "id": 143,
     "name": "rijndael",
     "addresses": [
       "tb1qg8zlznrvns9u46muxamxjh7sa8wry3vutzaujm"
@@ -1603,7 +1579,7 @@
     "link": "https://twitter.com/rot13maxi"
   },
   {
-    "id": 147,
+    "id": 144,
     "name": "wk057",
     "addresses": [
       "1WizkidqARMLvjGUpfDQFRcEbnHpL55kK"
@@ -1614,7 +1590,7 @@
     "link": ""
   },
   {
-    "id": 148,
+    "id": 145,
     "name": "FutureBit Apollo Solo",
     "addresses": [],
     "tags": [
@@ -1624,7 +1600,7 @@
     "link": "https://www.futurebit.io"
   },
   {
-    "id": 149,
+    "id": 146,
     "name": "emzy",
     "addresses": [
       "tb1qmf7xdqc5nvzhturuzc46qtq5kywdf3p76cpq53"
@@ -1635,7 +1611,7 @@
     "link": "https://twitter.com/emzy"
   },
   {
-    "id": 150,
+    "id": 147,
     "name": "knorrium",
     "addresses": [
       "tb1qtfqp4g7n7wc3sr6c2cuzsq62px4pfsxgsv2krx"
@@ -1646,7 +1622,7 @@
     "link": "https://twitter.com/knorrium"
   },
   {
-    "id": 151,
+    "id": 148,
     "name": "Carbon Negative",
     "addresses": [
       "33SAB6pzbhEGPbfY6NVgRDV7jVfspZ3A3Z",
@@ -1656,7 +1632,7 @@
     "link": "https://github.com/bitcoin-data/mining-pools/issues/48"
   },
   {
-    "id": 152,
+    "id": 149,
     "name": "Portland.HODL",
     "addresses": [
     ],
@@ -1664,7 +1640,7 @@
     "link": ""
   },
   {
-    "id": 153,
+    "id": 150,
     "name": "Phoenix",
     "addresses": [
       "37cGvBD4qufoZQHopGS7XstxRUzx5cNuy1",
@@ -1675,7 +1651,7 @@
     "link": "https://phoenixpool.com"
   },
   {
-    "id": 154,
+    "id": 151,
     "name": "Neopool",
     "addresses": [
       "1HCAb2h89bUinm6QZrAPpfbk4ySBrT2V4w"
@@ -1684,7 +1660,7 @@
     "link": "https://neopool.com/"
   },
   {
-    "id": 155,
+    "id": 152,
     "name": "MaxiPool",
     "addresses": [
       "36r3YqAXWpyqNcczjCBdHrYZ3m8X56WDzx"
@@ -1693,7 +1669,7 @@
     "link": "https://maxipool.org/"
   },
   {
-    "id": 156,
+    "id": 153,
     "name": "DrDetroit",
     "addresses": [
       "tb1qtcruplnz89xw5f86kw8sj7x9r23d5yffrysx2p"
@@ -1704,7 +1680,7 @@
     "link": "https://x.com/bankhatin"
   },
   {
-    "id": 157,
+    "id": 154,
     "name": "BitFuFuPool",
     "addresses": [
       "3JP3zF7LoeoAotqkNGdvX5szUyNPwd937d"
@@ -1713,7 +1689,7 @@
     "link": "https://www.bitfufu.com/pool"
   },
   {
-    "id": 158,
+    "id": 155,
     "name": "luckyPool",
     "addresses": [
       "1DnPPFQPrfyNTiHPXhDFyqNnW9T62GEhB1"
@@ -1722,7 +1698,7 @@
     "link": ""
   },
   {
-    "id": 159,
+    "id": 156,
     "name": "Mining-Dutch",
     "addresses": [
       "1AfPSq5ZbqBaxU5QAayLQJMcXV8HZt92eq"
